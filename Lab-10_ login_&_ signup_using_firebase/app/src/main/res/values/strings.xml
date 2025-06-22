@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab-9</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up_here">Don\'t have an account? Sign up here</string>
+    <string name="email_">Email</string>
+    <string name="password_">Password</string>
+    <string name="login_">Login</string>
+    <string name="don_t_have_an_account_sign_up_here_">Don\'t have an account? Sign up here</string>
+    <string name="email__">Email</string>
+    <string name="password__">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_login_here__">Already have an account? Login here</string>
+</resources>
