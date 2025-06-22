@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LAB-5</string>
+    <string name="enter_ammount">Enter Ammount</string>
+    <string name="ammount">Ammount...</string>
+    <string name="rate_of_interest">Rate Of Interest</string>
+    <string name="entet_rate_of_interest">Entet Rate Of Interest</string>
+    <string name="ammountt">Ammount</string>
+    <string name="enter_ammountt">Enter Ammount</string>
+    <string name="enter_number_of_years">Enter Number Of Years</string>
+    <string name="years">Years</string>
+    <string name="ammounttt">Ammount :</string>
+    <string name="rate_of_interesttt">Rate Of Interest :</string>
+    <string name="yearss">Years :</string>
+    <string name="interest">Interest :</string>
+    <string name="yearsss">Years :</string>
+    <string name="interestttt">Interest :</string>
+    <string name="calculate">Calculate</string>
+    <string name="calculate_simple_interest">calculate simple interest</string>
+</resources>

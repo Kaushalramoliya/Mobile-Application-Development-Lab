@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LAB_3_NAME</string>
+    <string name="first_name">First Name:</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="last_name">Last Name:</string>
+    <string name="enter_last_name">Enter Last Name</string>
+</resources>
