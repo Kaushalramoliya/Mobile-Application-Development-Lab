@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="full_name">Full Name</string>
+    <string name="write_full_name">Full name</string>
+    <string name="full_nametext">Full Name</string>
+    <string name="phone_no">Phone No</string>
+    <string name="pincode">Pincode</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="address">Address</string>
+    <string name="name">Name</string>
+    <string name="enter_full_name">full name</string>
+    <string name="enter_phone_no">phone no</string>
+    <string name="enter_date_of_birth">date of birth</string>
+    <string name="enter_address">address</string>
+    <string name="enter_pincode">pincode</string>
+    <string name="submit">SUBMIT</string>
+    <string name="registration_details">Registration Details</string>
+    <string name="show">Full Name:</string>
+    <string name="phone_noshow">Phone No:</string>
+    <string name="date_of_birthshow">Date of Birth:</string>
+    <string name="addressshow">Address:</string>
+    <string name="pin_codeshow">Pin Code:</string>
+    <string name="submit_">Submit</string>
+</resources>

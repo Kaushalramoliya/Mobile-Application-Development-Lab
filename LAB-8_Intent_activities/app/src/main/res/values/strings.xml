@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab-8_Intent_Activity</string>
+    <string name="write_here">Write Here</string>
+    <string name="send">SEND</string>
+    <string name="hd">hd</string>
+    <string name="search_here">Search Here</string>
+    <string name="search">Search</string>
+    <string name="search_btn">SEARCH</string>
+    <string name="explicit_intent">Explicit intent</string>
+    <string name="implicit_intent">Implicit intent</string>
+    <string name="intent_activity">Intent Activity</string>
+</resources>
