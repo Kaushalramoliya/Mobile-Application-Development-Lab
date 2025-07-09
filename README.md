@@ -6,7 +6,6 @@ This repository contains a collection of 10 Android Studio-based **`app/` folder
 > **🆔 Roll No:** 22000409  
 > **🎓 Semester:** 5th (Third Year)  
 > **🏫 Institute:** Navrachana University  
-> **📅 Academic Year:** Autumn Semester 2024  
 
 ---
 
@@ -81,18 +80,14 @@ Screenshots of each lab’s working application are maintained in the Practical 
 
 ---
 
-## 📜 License
-
-This repository is part of an academic lab submission and is intended for learning purposes only.  
-All content is authored and maintained by **Kaushal Ramoliya (22000409)**.
-
----
 
 ## 📬 Contact
 
 For any academic or code-related queries:
 ---
 - 📧 Email: kaushalramoliya17@gmail.com
+- 🌐 LinkedIn: [linkedin.com/in/kaushalramoliya](https://www.linkedin.com/in/kaushalramoliya)
+- 💻 GitHub: [github.com/kaushalramoliya](https://github.com/Kaushalramoliya) 
 
 ---
 
